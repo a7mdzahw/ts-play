@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Dank Mono' ,monospace;
+}
+
+body {
+    max-width: 500px;
+    min-height: 100vh;
+    margin: auto;
+    margin-top: 24px;
+    background-color: #eee;
+}
+
+.red {
+    background-color: red !important;
+    color: white !important;
+}
