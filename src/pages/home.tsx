@@ -13,10 +13,7 @@ const Home = () => {
       <p>About US:</p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium,
         distinctio. Atque aperiam aliquam ipsam labore tempore dolor eius autem
-        eum fugiat. Numquam ad officiis velit natus reprehenderit blanditiis
-        iste vel sed maxime provident. Accusamus cumque dolorum quaerat,
-        voluptas labore possimus reiciendis itaque sed iure cupiditate placeat,
-        quibusdam, aliquam dolore doloremque?
+        eum fugiat.
       </H4>
     </>
   );
