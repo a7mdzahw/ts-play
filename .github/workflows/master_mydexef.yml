@@ -52,4 +52,4 @@ jobs:
           app-name: 'mydexef'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E715D416DE3241E3976BF52EB3649DD7 }}
-          package: .
+          package: ./build
